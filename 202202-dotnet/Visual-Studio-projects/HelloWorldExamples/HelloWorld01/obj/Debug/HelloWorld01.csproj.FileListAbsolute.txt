@@ -1,0 +1,2 @@
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.csproj.AssemblyReference.cache
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\HelloWorldExamples\HelloWorld01\obj\Debug\HelloWorld01.csproj.CoreCompileInputs.cache

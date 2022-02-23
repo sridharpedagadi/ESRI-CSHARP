@@ -1,0 +1,7 @@
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\bin\Debug\HelloWorld2.exe.config
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\bin\Debug\HelloWorld2.exe
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\bin\Debug\HelloWorld2.pdb
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\obj\Debug\HelloWorld2.csproj.AssemblyReference.cache
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\obj\Debug\HelloWorld2.csproj.CoreCompileInputs.cache
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\obj\Debug\HelloWorld2.exe
+D:\SridharESRI\MyWorks\202202-dotnet\Visual-Studio-projects\SimpleCSPrograms\HelloWorld2\obj\Debug\HelloWorld2.pdb
